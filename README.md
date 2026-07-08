@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Jasmine Rahi!
-
+<div align="center">
+  <img src="hacker-cat.gif" alt="Hacker Cat Coding" width="100%">
+</div>
+<br>
 ---
 
 ### 🎓 About Me
