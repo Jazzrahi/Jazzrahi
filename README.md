@@ -10,7 +10,7 @@
 - 🏫 B.Tech undergraduate in Information Technology at IIIT Allahabad
 - 💡 Pursuing a Minor in Entrepreneurship and Innovation
 - 🚀 Passionate about competitive programming and building AI-powered web applications
-- 🌱 Currently enhancing my comepetitive programming, data structure and software development skills
+- 🌱 Currently enhancing my competitive programming, data structure and software development skills
 
 ---
 
